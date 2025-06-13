@@ -1,7 +1,7 @@
 {
-  "name": "my-v0-project",
+  "name": "this-is-us",
   "version": "0.1.0",
-  "homepage": "https://aggarwal-ujjwal-19.github.io/my-app",
+  "homepage": "https://aggarwal-ujjwal-19.github.io/this-is-us",
   "private": true,
   "scripts": {
     "dev": "next dev",
